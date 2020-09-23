@@ -1,0 +1,19 @@
+<package>
+	<id>com.arab-crack.arabhack</id>
+	<name>Arabhack</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>10.0</maxiOS
+		    </firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Awesome package created by arabhack..</description>
+	</descriptionlist>
+	<screenshots>arahack.jpg</screenshots>
+        <name/github</name>
+        <url>https://https://github.com/amirpogg	
+<links>      
+</links>
+</package>
